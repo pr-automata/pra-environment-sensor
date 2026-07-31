@@ -1,0 +1,15 @@
+# PlatformIO
+.pio/
+.vscode/
+
+# Локальные конфигурации и кэш
+_esptool.cfg
+*.db
+*.opendb
+.ipch/
+
+# Пользовательские бэкапы и временные файлы
+local/
+*.bak
+*.tmp
+*.swp

@@ -1,4 +1,4 @@
-# 🌡️ PR_Automata Environment Sensor (PRA-EvS)
+# 🌡️ PR//Automata Environment Sensor (PRA-EvS)
 
 Lightweight, optimized environment monitoring node based on ESP8266 and the BME280 sensor. Designed with code quality, reliability, and enterprise-grade telemetry in mind. 
 

@@ -69,8 +69,7 @@ To prevent unauthorized access, the OTA port is closed during normal operation. 
 ## 🤖 PR_Automata Env Swarm Manager (Coming Soon)
 The `mgr` endpoint parameter is designed to work with our upcoming **Swarm Manager**. It's a lightweight centralized registry that listens to node heartbeats, tracks their IPs, and automatically generates `targets.json` files for Prometheus HTTP Service Discovery. 
 
-The manager backend is currently undergoing a refactoring and will be published in a neighboring repository soon. Stay tuned!
-
+EvS repo https://github.com/pr-automata/pra-evs-manager
 ## 📜 License
 
 MIT License. Feel free to fork, build, and deploy.
